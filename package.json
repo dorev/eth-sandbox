@@ -1,0 +1,25 @@
+{
+  "name": "eth-sandbox",
+  "version": "1.0.0",
+  "description": "The purpose of this repo is to explore programming in Solidity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorev/eth-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorev/eth-sandbox/issues"
+  },
+  "homepage": "https://github.com/dorev/eth-sandbox#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "hardhat": "^2.4.3"
+  }
+}
